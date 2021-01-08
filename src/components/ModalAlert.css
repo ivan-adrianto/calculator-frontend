@@ -1,0 +1,25 @@
+.body-alert {
+    position: relative;
+    top: 30vh;
+    background-color: #DD4A45;
+    color: white;
+}
+
+.modal-content {
+    height: 0px;
+}
+
+.body-alert h3 {
+    font-size: 20px;
+    align-self: center;
+    font-weight: 600;
+}
+
+.button-ok {
+    margin-top: 50px;
+    text-align: right;
+}
+
+.button-ok button {
+    font-size: 20px !important;
+}
